@@ -13,7 +13,7 @@
 #sed -i 's/192.168.1.1/192.168.10.1/g' package/base-files/files/bin/config_generate
 
 #sirpdboy
-git clone https://github.com/deplives/luci-app-turboacc.git package/luci-app-turboacc
+#git clone https://github.com/deplives/luci-app-turboacc.git package/luci-app-turboacc
 git clone https://github.com/chinattw/luci-app-vlmcsd.git package/luci-app-vlmcsd
 #git clone https://github.com/sirpdboy/luci-app-advanced.git package/luci-app-advanced
 #git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
