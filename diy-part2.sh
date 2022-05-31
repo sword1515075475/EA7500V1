@@ -14,7 +14,7 @@
 
 #sirpdboy
 #git clone https://github.com/deplives/luci-app-turboacc.git package/luci-app-turboacc
-git clone https://github.com/chinattw/luci-app-vlmcsd.git package/luci-app-vlmcsd
+#git clone https://github.com/chinattw/luci-app-vlmcsd.git package/luci-app-vlmcsd
 #git clone https://github.com/sirpdboy/luci-app-advanced.git package/luci-app-advanced
 #git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
 #git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
